@@ -10,7 +10,7 @@
 
 ## Built With
 
-- React
+- React`
 - Vite
 
 ## Built By
